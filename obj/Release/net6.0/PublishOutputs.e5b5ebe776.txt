@@ -1,0 +1,1 @@
+C:\Users\Hannes\Documents\_HWR\SoSe2022\python\addin\bin\Release\net6.0\publish\web.config
